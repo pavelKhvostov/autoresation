@@ -1,0 +1,110 @@
+{
+  "1efd4999-66c4-45bb-8cc6-380f502ac6e0": {
+    "id": "1efd4999-66c4-45bb-8cc6-380f502ac6e0",
+    "text": "Привет!",
+    "authorId": "9878f52d-477e-4c6c-ba08-97ceaf67308f",
+    "createdAt": 1704667927784
+  },
+  "cb1ba1bd-1456-4e83-84f7-d713466dee21": {
+    "id": "cb1ba1bd-1456-4e83-84f7-d713466dee21",
+    "text": "Как дела?",
+    "authorId": "9878f52d-477e-4c6c-ba08-97ceaf67308f",
+    "createdAt": 1704668049395
+  },
+  "5500d6e3-ae06-4a73-9a68-48062ccf0c2d": {
+    "id": "5500d6e3-ae06-4a73-9a68-48062ccf0c2d",
+    "text": "Неплохо :)",
+    "authorId": "df7182dd-b3c6-46cf-9133-f922f988c75d",
+    "createdAt": 1704901834902
+  },
+  "35b6baa1-4f41-4886-89bf-20dd83b78364": {
+    "id": "35b6baa1-4f41-4886-89bf-20dd83b78364",
+    "text": "А ты как?",
+    "authorId": "df7182dd-b3c6-46cf-9133-f922f988c75d",
+    "createdAt": 1704901870088
+  },
+  "b5da5769-f8d2-4cf1-8240-bc9de58e85e5": {
+    "id": "b5da5769-f8d2-4cf1-8240-bc9de58e85e5",
+    "text": "всем привет",
+    "authorId": "68706d60-a9c9-463e-96d9-b717a428d4b6",
+    "createdAt": 1755103798402
+  },
+  "6ebbea1e-a343-4dc0-baf1-77ef1ccf54e1": {
+    "id": "6ebbea1e-a343-4dc0-baf1-77ef1ccf54e1",
+    "text": "я из краснодара\n",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755104118804
+  },
+  "20622226-b65c-47d3-9db6-650e7d6cccf8": {
+    "id": "20622226-b65c-47d3-9db6-650e7d6cccf8",
+    "text": "я из краснодара\n",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755104129195
+  },
+  "4ce1a249-5d4e-4ef8-b734-a2314fa422ab": {
+    "id": "4ce1a249-5d4e-4ef8-b734-a2314fa422ab",
+    "text": "всем хорошего дня\n",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755104171074
+  },
+  "b368c88f-5365-484c-bac4-15d39032d7d3": {
+    "id": "b368c88f-5365-484c-bac4-15d39032d7d3",
+    "text": "всем хорошего дня\n",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755104177223
+  },
+  "3dc5bb0d-5b12-42fe-b780-297bb04ec0e1": {
+    "id": "3dc5bb0d-5b12-42fe-b780-297bb04ec0e1",
+    "text": "всем хорошего дня\n",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755104185499
+  },
+  "54152d0d-5031-4476-b7d1-e59897454321": {
+    "id": "54152d0d-5031-4476-b7d1-e59897454321",
+    "text": "12123123123123123123",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755107715204
+  },
+  "e0591fef-8477-40c1-ae7c-e49eca65c764": {
+    "id": "e0591fef-8477-40c1-ae7c-e49eca65c764",
+    "text": "12123123123123123123",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755107731732
+  },
+  "73f2e726-4756-4024-a9ee-31b6adca7d41": {
+    "id": "73f2e726-4756-4024-a9ee-31b6adca7d41",
+    "text": "12123123123123123123",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755107746169
+  },
+  "c8654713-ca45-49f5-addd-2cdb61e39d10": {
+    "id": "c8654713-ca45-49f5-addd-2cdb61e39d10",
+    "text": "123123123123123123123",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755107762782
+  },
+  "abb3f23a-0bc6-4748-8acf-d624ed663b19": {
+    "id": "abb3f23a-0bc6-4748-8acf-d624ed663b19",
+    "text": "1231231231231231231232",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755107832993
+  },
+  "222d12f4-85e8-4e65-86dc-5554ced19f6d": {
+    "id": "222d12f4-85e8-4e65-86dc-5554ced19f6d",
+    "text": "121321323123123",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755107840113
+  },
+  "d43549e4-6fc3-4c29-9496-aa3cd72298e5": {
+    "id": "d43549e4-6fc3-4c29-9496-aa3cd72298e5",
+    "text": "121321323123123",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755107852452
+  },
+  "46cb9f3c-73cd-4091-ae90-ed73ae4a8481": {
+    "id": "46cb9f3c-73cd-4091-ae90-ed73ae4a8481",
+    "text": "1213213231231231",
+    "authorId": "b798c29d-aed1-40aa-8732-00fcd40f01fe",
+    "createdAt": 1755107854454
+  }
+}
